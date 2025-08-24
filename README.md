@@ -76,7 +76,7 @@ This dashboard helps Vrinda Store:
 ---
 
 ## 🔗 Connect with Me
-💼 **LinkedIn:** https://www.linkedin.com/in/pankaj-kumar-yadav
 
+linkedin https://www.linkedin.com/in/pankaj-kumar-yadav-278986331?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 ## ✍️ Author
 **Pankaj Kumar**
